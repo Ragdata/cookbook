@@ -1,0 +1,30 @@
+extends: relman.base.yml
+name: Cookbook
+description: A collection of scripts implementing various open-source applications under Docker
+version: 0.1.0
+copyright: Copyright © 2025 Redeyed Technologies
+website: https://ragdata.github.io/cookbook/
+repo_url: https://github.com/ragdata/cookbook
+license: GNU Affero General Public License v3.0
+license_url: https://www.gnu.org/licenses/agpl-3.0.html
+license_file: LICENSE
+keywords:
+    - docker
+    - docker-compose
+    - self-hosted
+    - open-source
+    - redeyed-au
+    - ragdata
+authors:
+    - username: Ragdata
+      first_name: Darren
+      surname: Poulton
+      email: ragdata@ragdata.dev
+      location: Brisbane, Australia
+      affiliation: Redeyed Technologies
+release_notes: |
+    - Developer Release of Cookbook.
+    - This is a work in progress and not yet ready for production use.
+    - The source is not yet fully tested and may contain bugs.
+    - The source is not yet fully documented and may be missing features.
+    - The source is not yet fully supported and may not work as expected.
