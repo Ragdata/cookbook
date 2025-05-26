@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### _An App Marketplace Source for Cosmos Cloud_
+### _A collection of docker-compose sources_
 
 [![GitHub issues][issues-badge]][issues]
 [![Last Commit][last-commit]][commit]
@@ -109,7 +109,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 &nbsp;
 
@@ -141,12 +143,11 @@ Copyright &copy; 2025 Redeyed Technologies
 [last-commit]: https://img.shields.io/gitea/last-commit/ragdata/cookbook/master?style=for-the-badge
 [version-badge]: https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fragdata%2Fcookbook%2Fmaster%2F.releaserc&query=%24.version&prefix=v&label=Version&labelColor=31383f&color=cd4800
 
-
 [issues]: https://github.com/ragdata/cookbook/issues
 [mit-license]: https://choosealicense.com/licenses/mit/
 
-[wakatime-badge]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/d8fd4898-5adc-4ab8-8208-4f3ce314075d.svg?style=for-the-badge
-[wakatime-repo]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/d8fd4898-5adc-4ab8-8208-4f3ce314075d
+[wakatime-badge]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/091dd0ed-f797-4a33-8b27-b779fca7ea76.svg
+[wakatime-repo]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/091dd0ed-f797-4a33-8b27-b779fca7ea76
 
 [advisory]: https://github.com/ragdata/cookbook/security/advisories/new
 [all-contributors]: https://allcontributors.org
