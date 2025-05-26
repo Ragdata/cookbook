@@ -140,7 +140,7 @@ Copyright &copy; 2025 Redeyed Technologies
 [dev-release1]: https://img.shields.io/badge/Status-Dev--Release%20I-d20000?labelColor=31383f
 [issues-badge]: https://img.shields.io/github/issues-raw/ragdata/cookbook?style=for-the-badge&logo=github
 [license-badge]: https://img.shields.io/badge/License-MIT-gold?style=for-the-badge
-[last-commit]: https://img.shields.io/gitea/last-commit/ragdata/cookbook/master?style=for-the-badge
+[last-commit]: https://img.shields.io/github/last-commit/ragdata/cookbook/master?style=for-the-badge
 [version-badge]: https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fragdata%2Fcookbook%2Fmaster%2F.releaserc&query=%24.version&prefix=v&label=Version&labelColor=31383f&color=cd4800
 
 [issues]: https://github.com/ragdata/cookbook/issues
