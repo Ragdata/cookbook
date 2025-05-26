@@ -1,12 +1,12 @@
 <a name="top" href="https://github.com/ragdata" target="_blank"><img height="100" align="right" src="https://raw.githubusercontent.com/Ragdata/media/master/logo/Ragdata-64.svg" alt="Cosmos Server Servapps" /></a>
 
 <!-- [![Codacy grade][codacy-grade]][codacy-repo] -->
-![Dev-Release][dev-release]
-[![Version][version-badge]][release]
+![Dev-Release][dev-release1]
+<!-- [![Version][version-badge]][release] -->
 
 <h1>
 
-[Cosmos Cloud Servapps][release]
+[Cookbook][release]
 
 </h1>
 
@@ -15,8 +15,8 @@
 ### _An App Marketplace Source for Cosmos Cloud_
 
 [![GitHub issues][issues-badge]][issues]
-[![Last Release][release-date]][release]
-[![AGPL][license-badge]][agpl-license]
+[![Last Commit][last-commit]][commit]
+[![AGPL][license-badge]][mit-license]
 <br />
 [![wakatime][wakatime-badge]][wakatime-repo]
 
@@ -135,10 +135,10 @@ Copyright &copy; 2025 Redeyed Technologies
 [gh-pages]: https://ragdata.github.io/cookbook/
 [repo]: https://github.com/ragdata/cookbook
 
-[dev-release]: https://img.shields.io/badge/Status-Dev--Release-cd4800?labelColor=31383f
+[dev-release1]: https://img.shields.io/badge/Status-Dev--Release%20I-d20000?labelColor=31383f
 [issues-badge]: https://img.shields.io/github/issues-raw/ragdata/cookbook?style=for-the-badge&logo=github
 [license-badge]: https://img.shields.io/badge/License-MIT-gold?style=for-the-badge
-[release-date]: https://img.shields.io/github/release-date-pre/ragdata/cookbook?display_date=published_at&style=for-the-badge
+[last-commit]: https://img.shields.io/gitea/last-commit/ragdata/cookbook/master?style=for-the-badge
 [version-badge]: https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fragdata%2Fcookbook%2Fmaster%2F.releaserc&query=%24.version&prefix=v&label=Version&labelColor=31383f&color=cd4800
 
 
