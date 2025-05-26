@@ -15,7 +15,7 @@
 ### _A collection of docker-compose sources_
 
 [![GitHub issues][issues-badge]][issues]
-[![Last Commit][last-commit]][commit]
+![Last Commit][last-commit]
 [![AGPL][license-badge]][mit-license]
 <br />
 [![wakatime][wakatime-badge]][wakatime-repo]
