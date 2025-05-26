@@ -146,7 +146,7 @@ Copyright &copy; 2025 Redeyed Technologies
 [issues]: https://github.com/ragdata/cookbook/issues
 [mit-license]: https://choosealicense.com/licenses/mit/
 
-[wakatime-badge]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/091dd0ed-f797-4a33-8b27-b779fca7ea76.svg
+[wakatime-badge]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/091dd0ed-f797-4a33-8b27-b779fca7ea76.svg?style=for-the-badge
 [wakatime-repo]: https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/091dd0ed-f797-4a33-8b27-b779fca7ea76
 
 [advisory]: https://github.com/ragdata/cookbook/security/advisories/new
