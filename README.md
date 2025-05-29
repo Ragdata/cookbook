@@ -1,7 +1,7 @@
 <a name="top" href="https://github.com/ragdata" target="_blank"><img height="100" align="right" src="https://raw.githubusercontent.com/Ragdata/media/master/logo/Ragdata-64.svg" alt="Cosmos Server Servapps" /></a>
 
 <!-- [![Codacy grade][codacy-grade]][codacy-repo] -->
-![Dev-Release][dev-release1]
+![Pre-Release][pre-release]
 <!-- [![Version][version-badge]][release] -->
 
 <h1>
@@ -137,7 +137,7 @@ Copyright &copy; 2025 Redeyed Technologies
 [gh-pages]: https://ragdata.github.io/cookbook/
 [repo]: https://github.com/ragdata/cookbook
 
-[dev-release1]: https://img.shields.io/badge/Status-Dev--Release%20I-d20000?labelColor=31383f
+[pre-release]: https://img.shields.io/badge/Status-Pre--Release-d20000?labelColor=31383f
 [issues-badge]: https://img.shields.io/github/issues-raw/ragdata/cookbook?style=for-the-badge&logo=github
 [license-badge]: https://img.shields.io/badge/License-MIT-gold?style=for-the-badge
 [last-commit]: https://img.shields.io/github/last-commit/ragdata/cookbook/master?style=for-the-badge
